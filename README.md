@@ -1,6 +1,6 @@
 ## Hi there! Welcome to my corner of GitHub 👋
 
-I'm Aidan Calderhead, and I love to use mathematical modeling and data science to explore, create, and contribute. Check out my [portfolio](https://acalderhead.github.com) to learn about my projects, active interests, and my Batman-inspired approach to data. I am open to collaborating on projects in (but not limited to) computational mathematics and machine learning. Feel free to reach out!
+I'm Aidan Calderhead, and I love to use mathematical modeling and data science to explore, create, and contribute. Check out my [portfolio](https://acalderhead.github.io) to learn about my projects, active interests, and my Batman-inspired approach to data. I am open to collaborating on projects in (but not limited to) computational mathematics and machine learning. Feel free to reach out!
 
 ### Career
 
