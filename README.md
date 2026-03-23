@@ -15,4 +15,3 @@ I'm Aidan Calderhead, and I love to use mathematical modeling and data science t
 
 - Married to Juliea Calderhead, student doctor @ Liberty University
 - Aspiring master-titled [chess](https://www.chess.com/member/gonzonium) player
-- Enthusiast of all things related to [obscure competitions](https://www.espnwwos.com/events/competitive-sports/espn8-the-ocho/)
